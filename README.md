@@ -3,11 +3,14 @@ Desafio da Imersão
 
 O objetivo do meu desafio foi criar uma página que com o resumo de algumas notícias sobre a Tragédia do rio grande do sul.
 
-Primeiro selecionei algumas noticias na internet, depois conversei com Gemini através do Colab para criar os resumos e finalmente criar um codigo html para a página.
+Primeiro perguntei ao Gemini sobre a tragédia, e ele me lembrou que o banco de dados dele vai apenas até Nov/23. 
+Entao selecionei algumas noticias na internet, depois conversei com Gemini através do Colab para criar os resumos e finalmente criar um codigo html para a página.
 
-utilizei o Visual Studio Code para rodar o código e inserir imagens.
+Utilizei o Visual Studio Code para rodar o código e inserir imagens.
 
-O gemini gerou o resumos sozinho, mas foi necessário corigir informações.  
+O gemini gerou o resumos sozinho através de textos, imagens e até videos, mas foi necessário corrigir informações, como o nome do secretário. em compensação o Gemini me corrigiu altomaticamente quando pedi para ele escrever "Rio Grande do SIL" e ele corrigiu para SUL.
+
+
 Na parte ddo Código tive mais dificuldade para conseguir o que esperava, ainda mais por eu estar aprendendo código a apenas dois meses.
 
 Pedi apra ele resumir nossa conversa: 
